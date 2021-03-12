@@ -2,6 +2,12 @@
 
 Product focuses on 100% education as well as upskilling developing countries and rural areas. 
 
+## Credits
+
+This project exists thanks to all the people who contribute.
+
+<a href="https://github.com/codeforcauseorg/edu-client/graphs/contributors"><img src="https://contributors-img.web.app/image?repo=codeforcauseorg/edu-client" /></a>
+
 ## Available Scripts
 
 In the project directory, you can run:
